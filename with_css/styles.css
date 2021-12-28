@@ -1,0 +1,87 @@
+/* -------------------styles.css------------------------ */
+
+/* Universal code */
+
+body {
+    background-color: #686de0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #c7ecee;
+}
+
+.recpName {
+    color: #130f40;
+}
+
+a {
+    text-decoration: none;
+    color: #c7ecee;
+}
+
+a:hover {
+    color: #ff7979;
+}
+
+.text {
+    margin: auto;
+    width: 60%;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #130f40;
+}
+
+img {
+    width: 420px;
+    height: auto;
+}
+
+.foodPics {
+    margin: auto;
+    width: 35%;
+}
+
+#hotChoc {
+    width: 350px;
+    height: auto;
+    padding-left: 40px;
+    
+}
+
+.ingredientList {
+    margin: auto;
+    width: 30%;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.directions {
+    margin: auto;
+    width: 50%;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Homepage */
+
+#navBar {
+    margin: auto;
+    width: 30%;
+    font-size: x-large;
+    padding-top: 30px;
+}
+
+.oldschool {
+    margin: auto;
+    width: 30%;
+    padding-top: 80px;
+    padding-left: 50px;
+    font-size: larger;
+}
+
+/* Lasagna */
+
+
+

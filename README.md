@@ -1,6 +1,24 @@
 # odin-recipes
 TOP Project 1 (Recipes)
 
+Tues Dec 28, 2021. 1115hrs PST.
+
+Oh hi,
+
+So after completing this original project, The Odin Project went on to cover some CSS basics and as a practice assignment they had me style this HTML recipe book with CSS, so I thought it might be cool to upload that to show what a little CSS can do. Anyway, today I have made some changes to the original page which I will list out bellow:
+
+- Linked to styled version of recipe book from home page.
+- Edited text on home page to link to styled page.
+- Slightly adjusted the positioning of some elements.
+- Added 'Home' link at bellow the h1 on each recipe page.
+
+That is about it for now! Though, I doubt that I'll edit this site any further.
+
+Cheers,
+
+Neo.
+
+
 Thurs Dec 23, 2021. 2156hrs PST.
 
     Hello READers of this README!
